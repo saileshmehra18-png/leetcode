@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/saileshmehra18-png/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/saileshmehra18-png/leetcode/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/saileshmehra18-png/leetcode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/saileshmehra18-png/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0206-reverse-linked-list](https://github.com/saileshmehra18-png/leetcode/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
