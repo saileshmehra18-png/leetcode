@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/saileshmehra18-png/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/saileshmehra18-png/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saileshmehra18-png/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/saileshmehra18-png/leetcode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/saileshmehra18-png/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/saileshmehra18-png/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saileshmehra18-png/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/saileshmehra18-png/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saileshmehra18-png/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saileshmehra18-png/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/saileshmehra18-png/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
