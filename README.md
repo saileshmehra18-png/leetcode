@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saileshmehra18-png/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/saileshmehra18-png/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/saileshmehra18-png/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/saileshmehra18-png/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/saileshmehra18-png/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saileshmehra18-png/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -79,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
