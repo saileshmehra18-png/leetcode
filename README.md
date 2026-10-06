@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/saileshmehra18-png/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1021-remove-outermost-parentheses](https://github.com/saileshmehra18-png/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saileshmehra18-png/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/saileshmehra18-png/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/saileshmehra18-png/leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/saileshmehra18-png/leetcode/tree/master/1922-count-good-numbers) |
+| [2032-largest-odd-number-in-string](https://github.com/saileshmehra18-png/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -95,7 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0229-majority-element-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saileshmehra18-png/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
-## Boyer–Moore Majority Vote Algorithm
+## BoyerâMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0229-majority-element-ii) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/saileshmehra18-png/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/saileshmehra18-png/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
