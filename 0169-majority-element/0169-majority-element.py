@@ -11,4 +11,5 @@ class Solution:
                 count +=1
             else:
                 count -=1
-        return cand
+        if nums.count(cand) > len(nums) // 2:
+            return cand

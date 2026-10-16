@@ -104,7 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saileshmehra18-png/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0229-majority-element-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saileshmehra18-png/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/saileshmehra18-png/leetcode/tree/master/0229-majority-element-ii) |
@@ -120,6 +120,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saileshmehra18-png/leetcode/tree/master/0014-longest-common-prefix) |
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saileshmehra18-png/leetcode/tree/master/0169-majority-element) |
 ## BoyerâMoore Majority Vote Algorithm
 |  |
 | ------- |
